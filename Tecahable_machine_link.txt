@@ -1,0 +1,3 @@
+https://teachablemachine.withgoogle.com/models/7nBPrW9Is/ (direct tecahable machine link)
+
+https://teachablemachine.withgoogle.com/models/7nBPrW9Is/model.json (direct teachable machine link + model.json)
